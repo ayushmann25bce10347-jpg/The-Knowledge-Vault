@@ -36,7 +36,7 @@ Area\tTechnology
 
 
 
-Programming Language\tPython
+Programming Language:Python
 
 Execution Environment	Any Python IDE / Command Line
 
